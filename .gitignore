@@ -1,0 +1,23 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# OS Specific
+.DS_Store
+
+# MLflow tracking data
+mlruns/
+mlflow.db
+
+# Large datasets and models
+*.json
+*.spacy
+my_custom_resume_model/
+sample_resumes/
+
+# Streamlit config (if any)
+.streamlit/

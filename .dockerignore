@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+resume_env/
+.env
+train_data.spacy
+kaggle_resume_dataset.json
