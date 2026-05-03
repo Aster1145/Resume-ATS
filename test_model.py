@@ -56,3 +56,24 @@ if __name__ == "__main__":
     # Make sure your test.pdf is inside the sample_resumes folder!
     target_resume = "sample_resumes/test.pdf"
     test_custom_ai(target_resume)
+
+"""
+TEST EXECUTION RESULTS:
+========================================
+🤖 AI EXTRACTION RESULTS
+========================================
+
+📌 Name:
+  - Hayden Lee 123
+
+📌 College Name:
+  - Massachusetts Institute of Technology Cambridge, MA Candidate for
+
+📌 Skills:
+  - LANGUAGES Mandarin
+  - Adobe Photoshop Conceptualized a children’s mediathèque based on field conditions across time Collected real
+  - Adobe Photoshop Conceptualized a fitness center to direct viewpoints towards programs of interest Experimented with relationship of carving and packing programs to direct focus towards the space’s center Explored effects of changing wall and ceiling geometries, creating special vantage points in certain locations WORK EXPERIENCE Robotics Company January 20XX Education Design Intern
+
+📌 Designation:
+  - Back Bay Children’s Mediathèque February
+"""
